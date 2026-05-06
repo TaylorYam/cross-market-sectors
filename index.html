@@ -45,6 +45,47 @@
   header .wrap {
     max-width: 1100px;
     margin: 0 auto;
+    position: relative;
+  }
+  header .byline {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 12px;
+    opacity: 0.75;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  header .byline a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255,255,255,0.4);
+    padding-bottom: 1px;
+    transition: opacity 0.15s, border-color 0.15s;
+  }
+  header .byline a:hover {
+    opacity: 1;
+    border-color: rgba(255,255,255,1);
+  }
+  header .byline .mono {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    background: rgba(255,255,255,0.15);
+    color: white;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0;
+  }
+  @media (max-width: 480px) {
+    header .byline { font-size: 11px; }
+    header .byline .mono { width: 20px; height: 20px; font-size: 10px; }
   }
   header h1 {
     font-size: 22px;
@@ -331,6 +372,10 @@
 
 <header>
   <div class="wrap">
+    <div class="byline">
+      <span class="mono">T</span>
+      <span>by <a href="https://github.com/TaylorYam" target="_blank" rel="noopener">Taylor</a></span>
+    </div>
     <h1>台美日港 跨市場族群連動清單</h1>
     <p class="subtitle">從台股投資人視角，看半導體與相關產業在美股、日股、港股有哪些對應標的</p>
     <div class="stats" id="stats"></div>
