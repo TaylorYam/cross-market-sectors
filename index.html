@@ -364,10 +364,9 @@ const MARKET_LABELS = {
 };
 
 function renderStock(s, marketCls) {
-  const ann = s.ann ? '<span class="stock-ann">※</span>' : '';
   return `<div class="stock ${marketCls}" data-search="${(s.code + ' ' + s.name).toLowerCase()}">
     <span class="stock-code">${escapeHTML(s.code)}</span>
-    <span class="stock-name">${escapeHTML(s.name)}${ann}</span>
+    <span class="stock-name">${escapeHTML(s.name)}</span>
   </div>`;
 }
 
