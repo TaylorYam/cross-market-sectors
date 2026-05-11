@@ -59,7 +59,7 @@ gh api -X POST /repos/{owner}/{repo}/pages -f source.branch=main -f source.path=
 
 ## 更新資料
 
-當主 Excel (`v6.xlsx`) 有變動時，回到 root 跑：
+當主 Excel (`v7.xlsx`) 有變動時，回到 root 跑：
 
 ```bash
 python _build_web.py

@@ -265,7 +265,7 @@
           },
           {
             "code": "6963.JP",
-            "name": "ROHM 羅姆",
+            "name": "羅姆 ROHM",
             "supp": true,
             "ann": false
           }
@@ -510,13 +510,13 @@
         "jp": [
           {
             "code": "5802.JP",
-            "name": "住友電工 Sumitomo Electric",
+            "name": "住友電氣",
             "supp": true,
             "ann": false
           },
           {
             "code": "6503.JP",
-            "name": "三菱電機 Mitsubishi Electric",
+            "name": "三菱電機",
             "supp": true,
             "ann": false
           }
@@ -750,6 +750,18 @@
         ],
         "jp": [
           {
+            "code": "7731.JP",
+            "name": "NIKON 尼康",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7751.JP",
+            "name": "CANON 佳能",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "6146.JP",
             "name": "Disco",
             "supp": true,
@@ -800,7 +812,7 @@
             "ann": false
           }
         ],
-        "total": 19
+        "total": 21
       },
       {
         "name": "半導體檢測/量測",
@@ -931,6 +943,12 @@
         ],
         "jp": [
           {
+            "code": "6871.JP",
+            "name": "MJC 日本麥克隆尼",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "6857.JP",
             "name": "愛德萬 Advantest",
             "supp": true,
@@ -938,7 +956,7 @@
           }
         ],
         "hk": [],
-        "total": 10
+        "total": 11
       },
       {
         "name": "半導體廠務工程",
@@ -993,6 +1011,96 @@
         ],
         "hk": [],
         "total": 7
+      },
+      {
+        "name": "光罩",
+        "desc": "Photomask (DNP / HOYA)",
+        "tw": [],
+        "us": [],
+        "jp": [
+          {
+            "code": "429A.JP",
+            "name": "Tekscend",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7741.JP",
+            "name": "HOYA",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7912.JP",
+            "name": "DNP 大日本印刷",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "hk": [],
+        "total": 3
+      },
+      {
+        "name": "半導體材料",
+        "desc": "光阻 / CMP slurry-pad / 製程化學品",
+        "tw": [],
+        "us": [],
+        "jp": [
+          {
+            "code": "3104.JP",
+            "name": "富士紡",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4186.JP",
+            "name": "東京應化 TOK",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "5384.JP",
+            "name": "富士美",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "hk": [],
+        "total": 3
+      },
+      {
+        "name": "功率半導體",
+        "desc": "車用 / 再生能源 power IC",
+        "tw": [],
+        "us": [],
+        "jp": [
+          {
+            "code": "6503.JP",
+            "name": "三菱電機",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6504.JP",
+            "name": "富士電機",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6723.JP",
+            "name": "瑞薩 Renesas",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6963.JP",
+            "name": "羅姆 ROHM",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "hk": [],
+        "total": 4
       }
     ]
   },
@@ -1051,7 +1159,19 @@
         "jp": [
           {
             "code": "4062.JP",
-            "name": "揖斐電",
+            "name": "IBIDEN 揖斐電 / 揖斐電",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6787.JP",
+            "name": "名幸 MEIKO",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6958.JP",
+            "name": "CMK",
             "supp": false,
             "ann": false
           }
@@ -1106,7 +1226,7 @@
             "ann": false
           }
         ],
-        "total": 16
+        "total": 18
       },
       {
         "name": "載板",
@@ -1134,14 +1254,32 @@
         "us": [],
         "jp": [
           {
+            "code": "2802.JP",
+            "name": "味之素 Ajinomoto",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "4062.JP",
-            "name": "揖斐電",
+            "name": "IBIDEN 揖斐電 / 揖斐電",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4182.JP",
+            "name": "三菱瓦斯 / 三菱瓦斯化學",
             "supp": false,
             "ann": false
           },
           {
             "code": "6971.JP",
             "name": "京瓷",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7120.JP",
+            "name": "SHINKO",
             "supp": false,
             "ann": false
           },
@@ -1153,7 +1291,7 @@
           }
         ],
         "hk": [],
-        "total": 6
+        "total": 9
       },
       {
         "name": "CCL/銅箔基板",
@@ -1189,8 +1327,14 @@
         "jp": [
           {
             "code": "4182.JP",
-            "name": "三菱瓦斯",
+            "name": "三菱瓦斯 / 三菱瓦斯化學",
             "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4004.JP",
+            "name": "RESONAC 力森諾科",
+            "supp": true,
             "ann": false
           }
         ],
@@ -1208,7 +1352,7 @@
             "ann": false
           }
         ],
-        "total": 7
+        "total": 8
       },
       {
         "name": "玻纖布",
@@ -1256,13 +1400,13 @@
           },
           {
             "code": "5201.JP",
-            "name": "旭硝子",
+            "name": "AGC 旭硝子 / 旭硝子",
             "supp": false,
             "ann": false
           },
           {
             "code": "5214.JP",
-            "name": "日本電氣硝子",
+            "name": "NEG 日本電氣硝子 / 日本電氣硝子",
             "supp": false,
             "ann": false
           }
@@ -1419,7 +1563,7 @@
         "jp": [
           {
             "code": "5801.JP",
-            "name": "古河電工",
+            "name": "古河電工 / 古河電氣",
             "supp": false,
             "ann": false
           }
@@ -1590,7 +1734,26 @@
             "ann": true
           }
         ],
-        "jp": [],
+        "jp": [
+          {
+            "code": "5801.JP",
+            "name": "古河電工 / 古河電氣",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "5802.JP",
+            "name": "住友電氣",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "5803.JP",
+            "name": "藤倉 Fujikura",
+            "supp": false,
+            "ann": false
+          }
+        ],
         "hk": [
           {
             "code": "1879.HK",
@@ -1623,7 +1786,7 @@
             "ann": false
           }
         ],
-        "total": 20
+        "total": 23
       },
       {
         "name": "AI高速互連",
@@ -1960,7 +2123,7 @@
         "jp": [
           {
             "code": "6758.JP",
-            "name": "Sony Group / 索尼",
+            "name": "SONY",
             "supp": true,
             "ann": false
           }
@@ -2186,7 +2349,7 @@
           },
           {
             "code": "6954.JP",
-            "name": "發那科",
+            "name": "發那科 / 發那科 Fanuc",
             "supp": false,
             "ann": false
           }
@@ -2239,7 +2402,7 @@
           },
           {
             "code": "6954.JP",
-            "name": "發那科",
+            "name": "發那科 / 發那科 Fanuc",
             "supp": false,
             "ann": false
           }
@@ -2261,14 +2424,32 @@
         ],
         "jp": [
           {
+            "code": "6273.JP",
+            "name": "SMC",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6506.JP",
+            "name": "安川電機",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "6861.JP",
-            "name": "Keyence 基恩斯",
-            "supp": true,
+            "name": "基恩斯 Keyence",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6954.JP",
+            "name": "發那科 / 發那科 Fanuc",
+            "supp": false,
             "ann": false
           }
         ],
         "hk": [],
-        "total": 2
+        "total": 5
       },
       {
         "name": "低軌衛星",
@@ -2367,20 +2548,44 @@
         ],
         "jp": [
           {
-            "code": "6752.JP",
-            "name": "Panasonic 松下 (電池)",
-            "supp": true,
+            "code": "5108.JP",
+            "name": "普利司通 Bridgestone",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6902.JP",
+            "name": "電裝 Denso",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7201.JP",
+            "name": "日產 Nissan",
+            "supp": false,
             "ann": false
           },
           {
             "code": "7203.JP",
             "name": "豐田 Toyota",
-            "supp": true,
+            "supp": false,
             "ann": false
           },
           {
             "code": "7267.JP",
             "name": "本田 Honda",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7269.JP",
+            "name": "鈴木 Suzuki",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6752.JP",
+            "name": "松下 Panasonic",
             "supp": true,
             "ann": false
           }
@@ -2417,7 +2622,7 @@
             "ann": false
           }
         ],
-        "total": 12
+        "total": 16
       },
       {
         "name": "塑化/石化",
@@ -2500,6 +2705,18 @@
         ],
         "jp": [
           {
+            "code": "3401.JP",
+            "name": "帝人 Teijin",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "3402.JP",
+            "name": "東麗 Toray",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "4005.JP",
             "name": "住友化學 Sumitomo Chemical",
             "supp": true,
@@ -2532,7 +2749,7 @@
             "ann": false
           }
         ],
-        "total": 17
+        "total": 19
       },
       {
         "name": "航運",
@@ -2702,19 +2919,19 @@
           {
             "code": "7011.JP",
             "name": "三菱重工",
-            "supp": true,
+            "supp": false,
             "ann": false
           },
           {
             "code": "7012.JP",
             "name": "川崎重工",
-            "supp": true,
+            "supp": false,
             "ann": false
           },
           {
             "code": "7013.JP",
             "name": "IHI",
-            "supp": true,
+            "supp": false,
             "ann": false
           }
         ],
@@ -2853,6 +3070,104 @@
         "total": 7
       },
       {
+        "name": "綜合商社",
+        "desc": "日系五大商社 (三菱商事/三井物產 等)",
+        "tw": [],
+        "us": [],
+        "jp": [
+          {
+            "code": "8001.JP",
+            "name": "伊藤忠商事",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8002.JP",
+            "name": "丸紅",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8031.JP",
+            "name": "三井物產",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8053.JP",
+            "name": "住友商事",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8058.JP",
+            "name": "三菱商事",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "hk": [],
+        "total": 5
+      },
+      {
+        "name": "日系電機集團",
+        "desc": "日立/松下/SONY/Toshiba 等綜合電機",
+        "tw": [],
+        "us": [],
+        "jp": [
+          {
+            "code": "6501.JP",
+            "name": "日立 Hitachi",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6502.JP",
+            "name": "東芝 Toshiba",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6503.JP",
+            "name": "三菱電機",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6701.JP",
+            "name": "NEC",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6702.JP",
+            "name": "富士通 Fujitsu",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6752.JP",
+            "name": "松下 Panasonic",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6753.JP",
+            "name": "夏普 SHARP",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6758.JP",
+            "name": "SONY",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "hk": [],
+        "total": 8
+      },
+      {
         "name": "消費",
         "desc": "民生消費 / 連鎖 / 飲料 / 運動",
         "tw": [
@@ -2957,20 +3272,62 @@
         ],
         "jp": [
           {
-            "code": "2503.JP",
-            "name": "Kirin 麒麟啤酒",
-            "supp": true,
+            "code": "2587.JP",
+            "name": "三得利 Suntory",
+            "supp": false,
             "ann": false
           },
           {
             "code": "2914.JP",
-            "name": "JT 日本菸草",
-            "supp": true,
+            "name": "日本菸草 JT",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "3382.JP",
+            "name": "7&I 7-Eleven",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4452.JP",
+            "name": "花王 Kao",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "5332.JP",
+            "name": "TOTO",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "6367.JP",
+            "name": "大金 Daikin",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "7974.JP",
+            "name": "任天堂 Nintendo",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8267.JP",
+            "name": "永旺 Aeon",
+            "supp": false,
             "ann": false
           },
           {
             "code": "9983.JP",
-            "name": "迅銷 Fast Retailing (Uniqlo)",
+            "name": "迅銷 Fast Retailing",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "2503.JP",
+            "name": "Kirin 麒麟啤酒",
             "supp": true,
             "ann": false
           }
@@ -3043,7 +3400,7 @@
             "ann": false
           }
         ],
-        "total": 30
+        "total": 37
       },
       {
         "name": "醫藥",
@@ -3145,19 +3502,31 @@
         "jp": [
           {
             "code": "4502.JP",
-            "name": "武田藥品 Takeda",
-            "supp": true,
+            "name": "武田製藥 Takeda",
+            "supp": false,
             "ann": false
           },
           {
-            "code": "4503.JP",
-            "name": "Astellas 安斯泰來",
-            "supp": true,
+            "code": "4519.JP",
+            "name": "中外製藥 Chugai",
+            "supp": false,
             "ann": false
           },
           {
             "code": "4568.JP",
             "name": "第一三共 Daiichi Sankyo",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4578.JP",
+            "name": "大塚製藥 Otsuka",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "4503.JP",
+            "name": "Astellas 安斯泰來",
             "supp": true,
             "ann": false
           }
@@ -3182,7 +3551,7 @@
             "ann": false
           }
         ],
-        "total": 21
+        "total": 23
       },
       {
         "name": "金融",
@@ -3261,19 +3630,37 @@
           {
             "code": "8306.JP",
             "name": "三菱UFJ",
-            "supp": true,
+            "supp": false,
             "ann": false
           },
           {
             "code": "8316.JP",
             "name": "三井住友 SMFG",
-            "supp": true,
+            "supp": false,
             "ann": false
           },
           {
             "code": "8411.JP",
-            "name": "瑞穗 Mizuho",
-            "supp": true,
+            "name": "瑞穗金融 Mizuho",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8725.JP",
+            "name": "MS&AD保險",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8750.JP",
+            "name": "第一生命",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "8766.JP",
+            "name": "東京海上",
+            "supp": false,
             "ann": false
           }
         ],
@@ -3339,7 +3726,7 @@
             "ann": false
           }
         ],
-        "total": 24
+        "total": 27
       },
       {
         "name": "地產",
