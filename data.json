@@ -58,21 +58,8 @@
             "ann": false
           }
         ],
-        "hk": [
-          {
-            "code": "688126.SH",
-            "name": "滬硅產業",
-            "supp": true,
-            "ann": false
-          },
-          {
-            "code": "688584.SH",
-            "name": "上海合晶",
-            "supp": true,
-            "ann": false
-          }
-        ],
-        "total": 10
+        "hk": [],
+        "total": 8
       },
       {
         "name": "晶圓代工/IC製造",
@@ -137,15 +124,9 @@
             "name": "華虹",
             "supp": false,
             "ann": false
-          },
-          {
-            "code": "688249.SH",
-            "name": "晶合集成",
-            "supp": false,
-            "ann": false
           }
         ],
-        "total": 10
+        "total": 9
       },
       {
         "name": "IC設計",
@@ -272,79 +253,13 @@
         ],
         "hk": [
           {
-            "code": "002049.SZ",
-            "name": "紫光國微",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "300782.SZ",
-            "name": "卓勝微",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "600460.SH",
-            "name": "士蘭微",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "603160.SH",
-            "name": "匯頂",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "603290.SH",
-            "name": "斯達",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "603501.SH",
-            "name": "韋爾",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "603986.SH",
-            "name": "兆易創新",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688008.SH",
-            "name": "瀾起",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688041.SH",
-            "name": "海光信息",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688052.SH",
-            "name": "納芯微",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688256.SH",
-            "name": "寒武紀",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "9660.HK",
             "name": "地平線",
             "supp": false,
             "ann": false
           }
         ],
-        "total": 31
+        "total": 20
       },
       {
         "name": "ASIC設計服務",
@@ -647,33 +562,8 @@
           }
         ],
         "jp": [],
-        "hk": [
-          {
-            "code": "002156.SZ",
-            "name": "通富微電",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "002185.SZ",
-            "name": "華天",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "600584.SH",
-            "name": "長電 / 長電科技",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688820.SH",
-            "name": "盛合晶微",
-            "supp": false,
-            "ann": false
-          }
-        ],
-        "total": 11
+        "hk": [],
+        "total": 7
       },
       {
         "name": "半導體設備",
@@ -786,33 +676,8 @@
             "ann": false
           }
         ],
-        "hk": [
-          {
-            "code": "002371.SZ",
-            "name": "北方華創",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688012.SH",
-            "name": "中微",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688072.SH",
-            "name": "拓荊",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688082.SH",
-            "name": "盛美",
-            "supp": false,
-            "ann": false
-          }
-        ],
-        "total": 21
+        "hk": [],
+        "total": 17
       },
       {
         "name": "半導體檢測/量測",
@@ -1178,30 +1043,6 @@
         ],
         "hk": [
           {
-            "code": "002384.SZ",
-            "name": "東山精密",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "002463.SZ",
-            "name": "滬電股份",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "002916.SZ",
-            "name": "深南電路",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "002938.SZ",
-            "name": "鵬鼎",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "0148.HK",
             "name": "建滔",
             "supp": false,
@@ -1212,21 +1053,9 @@
             "name": "勝宏科技",
             "supp": false,
             "ann": false
-          },
-          {
-            "code": "300476.SZ",
-            "name": "勝宏",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "600183.SH",
-            "name": "生益 / 生益科技",
-            "supp": false,
-            "ann": false
           }
         ],
-        "total": 18
+        "total": 12
       },
       {
         "name": "載板",
@@ -1344,15 +1173,9 @@
             "name": "建滔積層板",
             "supp": false,
             "ann": false
-          },
-          {
-            "code": "600183.SH",
-            "name": "生益 / 生益科技",
-            "supp": false,
-            "ann": false
           }
         ],
-        "total": 8
+        "total": 7
       },
       {
         "name": "玻纖布",
@@ -1411,15 +1234,8 @@
             "ann": false
           }
         ],
-        "hk": [
-          {
-            "code": "002080.SZ",
-            "name": "中材科技",
-            "supp": true,
-            "ann": false
-          }
-        ],
-        "total": 9
+        "hk": [],
+        "total": 8
       },
       {
         "name": "被動元件",
@@ -1490,15 +1306,8 @@
             "ann": false
           }
         ],
-        "hk": [
-          {
-            "code": "000636.SZ",
-            "name": "風華高科",
-            "supp": false,
-            "ann": false
-          }
-        ],
-        "total": 11
+        "hk": [],
+        "total": 10
       }
     ]
   },
@@ -1760,33 +1569,9 @@
             "name": "曦智科技",
             "supp": false,
             "ann": false
-          },
-          {
-            "code": "300308.SZ",
-            "name": "中際旭創",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "300394.SZ",
-            "name": "天孚通信",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "300502.SZ",
-            "name": "新易盛",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "688498.SH",
-            "name": "源杰科技",
-            "supp": false,
-            "ann": false
           }
         ],
-        "total": 23
+        "total": 19
       },
       {
         "name": "AI高速互連",
@@ -2178,19 +1963,13 @@
         "jp": [],
         "hk": [
           {
-            "code": "002475.SZ",
-            "name": "立訊",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "0285.HK",
             "name": "比亞迪電子",
             "supp": false,
             "ann": false
           }
         ],
-        "total": 7
+        "total": 6
       },
       {
         "name": "光學零組件",
@@ -3334,12 +3113,6 @@
         ],
         "hk": [
           {
-            "code": "000858.SZ",
-            "name": "五糧液",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "0300.HK",
             "name": "美的",
             "supp": false,
@@ -3376,12 +3149,6 @@
             "ann": false
           },
           {
-            "code": "600519.SH",
-            "name": "貴州茅台",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "6690.HK",
             "name": "海爾",
             "supp": false,
@@ -3400,7 +3167,7 @@
             "ann": false
           }
         ],
-        "total": 37
+        "total": 35
       },
       {
         "name": "醫藥",
@@ -3543,15 +3310,9 @@
             "name": "翰森製藥",
             "supp": false,
             "ann": false
-          },
-          {
-            "code": "600276.SH",
-            "name": "恒瑞醫藥",
-            "supp": false,
-            "ann": false
           }
         ],
-        "total": 23
+        "total": 22
       },
       {
         "name": "金融",
