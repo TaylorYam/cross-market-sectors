@@ -1195,6 +1195,18 @@
             "name": "金居",
             "supp": false,
             "ann": false
+          },
+          {
+            "code": "3044",
+            "name": "健鼎 Tripod",
+            "supp": true,
+            "ann": false
+          },
+          {
+            "code": "4958",
+            "name": "臻鼎-KY Zhen Ding",
+            "supp": true,
+            "ann": false
           }
         ],
         "us": [
@@ -1239,7 +1251,7 @@
             "ann": false
           }
         ],
-        "total": 12
+        "total": 14
       },
       {
         "name": "載板",
