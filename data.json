@@ -808,6 +808,12 @@
         ],
         "jp": [
           {
+            "code": "6855.JP",
+            "name": "JEM 日本電子材料",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "6871.JP",
             "name": "MJC 日本麥克隆尼",
             "supp": false,
@@ -821,7 +827,7 @@
           }
         ],
         "hk": [],
-        "total": 11
+        "total": 12
       },
       {
         "name": "半導體廠務工程",
@@ -881,7 +887,14 @@
         "name": "光罩",
         "desc": "Photomask (DNP / HOYA)",
         "tw": [],
-        "us": [],
+        "us": [
+          {
+            "code": "PLAB",
+            "name": "Photronics",
+            "supp": false,
+            "ann": false
+          }
+        ],
         "jp": [
           {
             "code": "429A.JP",
@@ -903,7 +916,7 @@
           }
         ],
         "hk": [],
-        "total": 3
+        "total": 4
       },
       {
         "name": "半導體材料",
@@ -1229,7 +1242,7 @@
           },
           {
             "code": "5214.JP",
-            "name": "NEG 日本電氣硝子 / 日本電氣硝子",
+            "name": "日本電氣硝子",
             "supp": false,
             "ann": false
           }
@@ -1730,6 +1743,12 @@
         "tw": [],
         "us": [
           {
+            "code": "CBRS",
+            "name": "Cerebras",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "CRWD",
             "name": "CrowdStrike",
             "supp": false,
@@ -1775,7 +1794,7 @@
             "ann": false
           }
         ],
-        "total": 7
+        "total": 8
       },
       {
         "name": "互聯網平台",
@@ -2169,7 +2188,7 @@
         "jp": [
           {
             "code": "6324.JP",
-            "name": "Harmonic",
+            "name": "Harmonic / Harmonic Drive",
             "supp": false,
             "ann": false
           },
@@ -2209,6 +2228,12 @@
             "ann": false
           },
           {
+            "code": "6324.JP",
+            "name": "Harmonic / Harmonic Drive",
+            "supp": false,
+            "ann": false
+          },
+          {
             "code": "6506.JP",
             "name": "安川電機",
             "supp": false,
@@ -2228,7 +2253,7 @@
           }
         ],
         "hk": [],
-        "total": 5
+        "total": 6
       },
       {
         "name": "低軌衛星",
@@ -2327,12 +2352,6 @@
         ],
         "jp": [
           {
-            "code": "5108.JP",
-            "name": "普利司通 Bridgestone",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "6902.JP",
             "name": "電裝 Denso",
             "supp": false,
@@ -2401,7 +2420,7 @@
             "ann": false
           }
         ],
-        "total": 16
+        "total": 15
       },
       {
         "name": "塑化/石化",
@@ -2646,18 +2665,6 @@
         ],
         "us": [
           {
-            "code": "AVAV",
-            "name": "AeroVironment",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "BA",
-            "name": "波音",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "GD",
             "name": "通用動力",
             "supp": false,
@@ -2715,7 +2722,63 @@
           }
         ],
         "hk": [],
-        "total": 15
+        "total": 13
+      },
+      {
+        "name": "航空",
+        "desc": "航空客運 + 民航製造 (Boeing/AAL/UAL/DAL)",
+        "tw": [],
+        "us": [
+          {
+            "code": "AAL",
+            "name": "American Airlines 美國航空",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "BA",
+            "name": "波音",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "DAL",
+            "name": "Delta Air Lines 達美航空",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "UAL",
+            "name": "United Airlines 聯合航空",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "jp": [],
+        "hk": [],
+        "total": 4
+      },
+      {
+        "name": "菸草",
+        "desc": "菸草公司 (PM/MO)",
+        "tw": [],
+        "us": [
+          {
+            "code": "MO",
+            "name": "Altria 奧馳亞",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "PM",
+            "name": "Philip Morris 菲利普莫里斯",
+            "supp": false,
+            "ann": false
+          }
+        ],
+        "jp": [],
+        "hk": [],
+        "total": 2
       },
       {
         "name": "礦業/能源",
@@ -2901,14 +2964,14 @@
             "ann": false
           },
           {
-            "code": "6502.JP",
-            "name": "東芝 Toshiba",
+            "code": "6503.JP",
+            "name": "三菱電機",
             "supp": false,
             "ann": false
           },
           {
-            "code": "6503.JP",
-            "name": "三菱電機",
+            "code": "6588.JP",
+            "name": "東芝 (Toshiba TEC)",
             "supp": false,
             "ann": false
           },
@@ -2985,6 +3048,12 @@
           {
             "code": "HD",
             "name": "家得寶",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "KMB",
+            "name": "Kimberly Clark 金百利克拉克",
             "supp": false,
             "ann": false
           },
@@ -3167,7 +3236,7 @@
             "ann": false
           }
         ],
-        "total": 35
+        "total": 36
       },
       {
         "name": "醫藥",
@@ -3206,26 +3275,20 @@
             "ann": false
           },
           {
-            "code": "AZN",
-            "name": "AstraZeneca",
-            "supp": false,
-            "ann": false
-          },
-          {
             "code": "BMY",
             "name": "BMS",
             "supp": false,
             "ann": false
           },
           {
-            "code": "CVS",
-            "name": "CVS Health",
+            "code": "GILD",
+            "name": "吉利德科學",
             "supp": false,
             "ann": false
           },
           {
-            "code": "GILD",
-            "name": "吉利德科學",
+            "code": "JNJ",
+            "name": "嬌生",
             "supp": false,
             "ann": false
           },
@@ -3237,7 +3300,13 @@
           },
           {
             "code": "MRK",
-            "name": "默克藥廠",
+            "name": "默沙東",
+            "supp": false,
+            "ann": false
+          },
+          {
+            "code": "NVS",
+            "name": "諾華製藥 Novartis",
             "supp": false,
             "ann": false
           },
@@ -3245,24 +3314,6 @@
             "code": "PFE",
             "name": "輝瑞",
             "supp": false,
-            "ann": false
-          },
-          {
-            "code": "REGN",
-            "name": "Regeneron",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "UNH",
-            "name": "聯合健康",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "JNJ",
-            "name": "嬌生",
-            "supp": true,
             "ann": false
           }
         ],
@@ -3312,7 +3363,7 @@
             "ann": false
           }
         ],
-        "total": 22
+        "total": 19
       },
       {
         "name": "金融",
@@ -3338,12 +3389,6 @@
           }
         ],
         "us": [
-          {
-            "code": "AXP",
-            "name": "美國運通",
-            "supp": false,
-            "ann": false
-          },
           {
             "code": "BAC",
             "name": "美國銀行",
@@ -3377,12 +3422,6 @@
           {
             "code": "V",
             "name": "VISA",
-            "supp": false,
-            "ann": false
-          },
-          {
-            "code": "WFC",
-            "name": "富國銀行",
             "supp": false,
             "ann": false
           }
@@ -3487,7 +3526,7 @@
             "ann": false
           }
         ],
-        "total": 27
+        "total": 25
       },
       {
         "name": "地產",
