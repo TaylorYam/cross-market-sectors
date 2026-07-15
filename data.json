@@ -409,6 +409,12 @@
             "name": "威騰電子",
             "supp": false,
             "ann": false
+          },
+          {
+            "code": "SKHY",
+            "name": "SK hynix 海力士",
+            "supp": true,
+            "ann": false
           }
         ],
         "jp": [
@@ -420,7 +426,7 @@
           }
         ],
         "hk": [],
-        "total": 13
+        "total": 14
       },
       {
         "name": "三五/化合物半導體",
@@ -2528,11 +2534,17 @@
             "name": "Rocket Lab",
             "supp": false,
             "ann": false
+          },
+          {
+            "code": "SPCX",
+            "name": "SpaceX 太空探索技術",
+            "supp": true,
+            "ann": false
           }
         ],
         "jp": [],
         "hk": [],
-        "total": 8
+        "total": 9
       }
     ]
   },
